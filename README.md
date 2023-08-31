@@ -1,15 +1,1 @@
-# 김예슬
-
-## Mbti
-
-- ESFP
-
-## 전공
-
-- 제약공학과
-
-## 취미
-
-- 영화보기
-
-
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Hello!%20I'm%20Yeseul&color=gradient)
